@@ -1,5 +1,5 @@
 # ptk
-## Remote work productivity tool kit in Python
+## Remote Work Productivity Tool Kit in Python
 
 These are a few simple tools I use for productivity. 
 
@@ -16,7 +16,7 @@ and then 4x (25 minute + 5 minute break)
 
 ![image](https://user-images.githubusercontent.com/31022640/150669064-264f7741-cfb8-4aae-a29f-6e553a3c0379.png)
 
-work - break cycle. System prompt sounds at the intervals. Subtle.
+System prompt sounds at the intervals. Subtle.
 
 ## To do list
 Simple python - tkinter task manager
@@ -24,4 +24,6 @@ Simple python - tkinter task manager
 ![image](https://user-images.githubusercontent.com/31022640/150668521-24c21689-e858-43a6-96bc-97ed2f55978f.png)
 
 Add and delete tasks in a small window.
-Works well for temporary string storage < 25 characters in length 
+Works well for temporary string storage < 25 characters in length.
+
+
