@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/31022640/150673593-9b7817b5-10d9-4486-8661-ba382b32315b.png)
+![ptk_ascii_2](https://user-images.githubusercontent.com/31022640/150673894-0407d058-c8db-4dd4-b594-da47d12ea9ac.png)
 
 ## Remote Work Productivity Tool Kit in Python
 
