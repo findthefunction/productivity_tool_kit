@@ -21,7 +21,7 @@ System prompt sounds at the intervals. Subtle.
 ## To do list
 Simple python - tkinter task manager
 
-![image](https://user-images.githubusercontent.com/31022640/150668521-24c21689-e858-43a6-96bc-97ed2f55978f.png)
+![image](https://user-images.githubusercontent.com/31022640/150669637-b6e3cfac-dd7b-4c35-8519-15ccb5f2fc95.png)
 
   - Add and delete tasks in a small window.
   - Notes to self
