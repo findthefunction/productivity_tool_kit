@@ -84,7 +84,7 @@ addTask_btn =Button(
     button_frame,
     text='Add Task',
     font=('times 14'),
-    bg='#c5f776',
+    bg='#5085d9',
     padx=10,
     pady=10,
     command=newTask
@@ -95,7 +95,7 @@ delTask_btn = Button(
     button_frame,
     text='Completed',
     font=('times 14'),
-    bg='#ff8b61',
+    bg='#66e84f',
     padx=10,
     pady=10,
     command=deleteTask
