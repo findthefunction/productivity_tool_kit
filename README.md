@@ -1,4 +1,16 @@
-# ptk
+              __      __       
+            /  |    /  |      
+  ______   _$$ |_   $$ |   __ 
+ /      \ / $$   |  $$ |  /  |
+/$$$$$$  |$$$$$$/   $$ |_/$$/ 
+$$ |  $$ |  $$ | __ $$   $$<  
+$$ |__$$ |  $$ |/  |$$$$$$  \ 
+$$    $$/   $$  $$/ $$ | $$  |
+$$$$$$$/     $$$$/  $$/   $$/ 
+$$ |                          
+$$ |                          
+$$/                           
+
 ## Remote Work Productivity Tool Kit in Python
 
 These are a few simple tools I use for productivity. 
