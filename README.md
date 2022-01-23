@@ -14,6 +14,8 @@ and then 4x (25 minute + 5 minute break)
 
 ![image](https://user-images.githubusercontent.com/31022640/150668943-04b3f2a7-d42c-4ba6-b2e8-905117294a94.png)
 
+![image](https://user-images.githubusercontent.com/31022640/150669064-264f7741-cfb8-4aae-a29f-6e553a3c0379.png)
+
 work - break cycle. System prompt sounds at the intervals. Subtle.
 
 ## To do list
