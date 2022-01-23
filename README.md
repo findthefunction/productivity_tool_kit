@@ -17,7 +17,7 @@ work - break cycle. System prompt sounds at the intervals. Subtle.
 ## To do list
 Simple python - tkinter task manager
 
-![image](https://user-images.githubusercontent.com/31022640/150668464-4480afd6-58cf-4966-82ac-e403888b7c78.png)
+![image](https://user-images.githubusercontent.com/31022640/150668521-24c21689-e858-43a6-96bc-97ed2f55978f.png)
 
 Add and delete tasks in a small window.
- 
+Works well for temporary string storage < 25 characters in length 
