@@ -10,7 +10,7 @@ def countdown(t):
         print(timer, end="\r") # overwrite previous line
         time.sleep(1)
         t-= 1
-    print("kai zen!",'\a')
+    print("Kaizen!",'\a')
 t = input("Enter time in seconds: ")
 
 countdown(int(t))
