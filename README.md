@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![ptk_ascii_2](https://user-images.githubusercontent.com/31022640/150673894-0407d058-c8db-4dd4-b594-da47d12ea9ac.png)
 
 ## Remote Work Productivity Tool Kit in Python
